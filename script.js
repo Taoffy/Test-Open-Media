@@ -72,10 +72,10 @@ $(document).ready(function() {
                             </div>
                             <div class="sl-item__btns">
                               <button class="btns__left-arrow">
-                                <img src="Path-2.svg">
+                                <img src="image/Path-2.svg">
                               </button>
                               <button class="btns__right-arrow">
-                                <img src="Path-2.svg">
+                                <img src="image/Path-2.svg">
                               </button>
                             </div>
                           </div>
